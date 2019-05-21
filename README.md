@@ -6,5 +6,5 @@ Credit card fraudulent issue is gaining more and more attention nowadays due to 
 
 In this project, data cleaning, exploratory data analysis, feature engineering have been performed to modify the datasets (over 6 million transactions). Potential statistical correlations between different features and fraud transaction occurence have been assessed and and the distribution patterns and trends of each feature have been explored. Five different machine learning algorithms have been tested on the newly created features for detecting fraudulent transactions.
 
-## Code:
+### Code:
 https://github.com/huanxia1/Springboard_Capstone_Project_2/blob/master/Credit_card_fraud_detection.ipynb
