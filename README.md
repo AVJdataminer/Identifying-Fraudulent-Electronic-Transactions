@@ -14,4 +14,4 @@ EDA, Data cleaning, Feature Engineering and Machine Learning (LogisticRegression
 Feature engineering greatly improved ML performances: random forest model gives close to 100% prediction accuracy, with ROC score close to 1, 100% ture negative rate, 0 false positive rate, 0.5% false negative rate and 99.5% true positive rate.
 
 ### Code:
-https://github.com/huanxia1/Identifying-Fraudulent-Electronic-Transactions/blob/master/Detection_of_fraud_electronic_transactions.ipynb
+https://nbviewer.jupyter.org/github/huanxia1/Identifying-Fraudulent-Electronic-Transactions/blob/master/Detection_of_fraud_electronic_transactions.ipynb
