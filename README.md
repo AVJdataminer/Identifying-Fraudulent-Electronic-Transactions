@@ -1,6 +1,6 @@
 ## Springboard_Capstone_Project_2
 
-## Problem Statement:
+### Problem Statement:
 
 Credit card fraudulent issue is gaining more and more attention nowadays due to an increasing popularity in digital and online purchases. It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
