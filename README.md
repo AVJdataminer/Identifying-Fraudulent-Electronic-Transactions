@@ -6,7 +6,7 @@ In this project, data cleaning, exploratory data analysis, feature engineering h
 
 ### Approach:
 
-EDA, Data cleaning, Feature Engineering and Machine Learning (LogisticRegressionCV, Gradient Boosting Classifier, Random Forest Classifier, Decision Tree and K Neighbors Classifier)
+EDA, Data cleaning, Feature Engineering and Machine Learning (LogisticRegressionCV, Gradient Boosting Classifier, Random Forest Classifier, Decision Tree and K Neighbors Classifier) to predict fraudulent transactions.
 
 ### Conclusions:
 
