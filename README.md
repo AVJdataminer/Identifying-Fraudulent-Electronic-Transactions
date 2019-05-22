@@ -18,3 +18,6 @@ https://nbviewer.jupyter.org/github/huanxia1/Identifying-Fraudulent-Electronic-T
 
 ### Report:
 https://docs.google.com/document/d/1E_j4lqPSBuZ7FzIET_a3KYzwXIv4Ag9GSFCXyAA1r4A/edit?usp=sharing
+
+### Slides:
+https://docs.google.com/presentation/d/1mxxnOYfiOCMtyg0DMBiZfGW6sav5J9W6Kglnit4ghnQ/edit?usp=sharing
