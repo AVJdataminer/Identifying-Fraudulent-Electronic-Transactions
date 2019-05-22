@@ -15,3 +15,6 @@ Feature engineering greatly improved ML performances: random forest model gives 
 
 ### Code:
 https://nbviewer.jupyter.org/github/huanxia1/Identifying-Fraudulent-Electronic-Transactions/blob/master/Detection_of_fraud_electronic_transactions.ipynb
+
+### Report:
+https://docs.google.com/document/d/1E_j4lqPSBuZ7FzIET_a3KYzwXIv4Ag9GSFCXyAA1r4A/edit?usp=sharing
